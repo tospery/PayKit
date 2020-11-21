@@ -1,0 +1,16 @@
+PODS:
+  - PayKit (0.1.0)
+
+DEPENDENCIES:
+  - PayKit (from `../`)
+
+EXTERNAL SOURCES:
+  PayKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PayKit: 34867b90260981fb9b2ff939f5567ab4fecea267
+
+PODFILE CHECKSUM: fbad34c0065b40ad23f8df0aeb669750aad6d005
+
+COCOAPODS: 1.9.1

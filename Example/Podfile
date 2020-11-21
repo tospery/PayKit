@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PayKit_Example' do
+  pod 'PayKit', :path => '../'
+
+  target 'PayKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
